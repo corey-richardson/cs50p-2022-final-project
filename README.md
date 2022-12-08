@@ -2,7 +2,7 @@
 #### Video Demo:  <URL HERE>
 #### Description:
 
-This project was originally created as coursework for my GCSE Computer Science course 3 years ago before I even knew what object-oriented programming was, however has now been rewritten using the understanding of Python I have since gained from CS50P and other courses. [original-project-repository](https://github.com/corey-richardson/dice-game-gcsecompsci-coursework)
+This project was originally created as coursework for my GCSE Computer Science course 3 years ago before I even knew what object-oriented programming was, however has now been rewritten using the understanding of Python I have since gained from CS50P and other courses.
 
 I used the object-oriented programming paradigm to create the "player" classes, collating multiple variables - name and score - into a single data type with their own methods.
 

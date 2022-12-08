@@ -1,7 +1,28 @@
 # Game of Dice
 #### Video Demo:  <URL HERE>
-#### Description:
 
+---
+  
+      ___    __    __  __  ____    _____  ____    ____  ____  ___  ____
+     / __)  /__\  (  \/  )( ___)  (  _  )( ___)  (  _ \(_  _)/ __)( ___)
+    ( (_-. /(__)\  )    (  )__)    )(_)(  )__)    )(_) )_)(_( (__  )__)
+     \___/(__)(__)(_/\/\_)(____)  (_____)(__)    (____/(____)\___)(____)
+
+
+    Two players roll two 6-sided dice.
+    Points are added based on the result of the dice.
+    The points rolled are added to the score. e.g. 3 and 4 --> 7
+    If the total is an even number, the user gets an extra 10 points.
+    If the total is odd, the user loses 5 points.
+    If the two dices roll the same, the user gets an additional dice roll.
+    The person with the highest score after 5 rounds will win.
+    If the users have the same end result, the game will enter sudden death.
+    Only authorised users can play the game.
+
+---
+
+#### Description:
+  
 This project was originally created as coursework for my GCSE Computer Science course 3 years ago before I even knew what object-oriented programming was, however has now been rewritten using the understanding of Python I have since gained from CS50P and other courses.
 
 I used the object-oriented programming paradigm to create the "player" classes, collating multiple variables - name and score - into a single data type with their own methods.
